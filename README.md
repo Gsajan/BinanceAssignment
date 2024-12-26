@@ -1,0 +1,1 @@
+Fetched cryptocurrency data from the CoinGecko API and performed analysis on key metrics like price, market capitalization, and trading volume. Visualized insights through various plots, highlighting trends, volatility, and liquidity patterns in the top cryptocurrencies.
